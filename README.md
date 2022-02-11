@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @teddyrugged
-- 👀 I’m interested in data science
+- 👀 I’m interested in software engineering and data science
 - 🌱 I’m currently learning python language
 - 💞️ I’m looking to collaborate on python
 - 📫 How to reach me j.akpaetuk@gmail.com
